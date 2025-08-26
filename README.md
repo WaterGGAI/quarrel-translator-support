@@ -6,6 +6,8 @@
 
 訪問我們的支援網站：**https://waterggai.github.io/quarrel-translator-support/**
 
+> 📝 **注意**: 如果網站顯示 404 錯誤，請稍候再試。GitHub Pages 需要幾分鐘時間來部署新的更新。
+
 ## 📱 關於吵架翻譯機
 
 吵架翻譯機是一個創新的iOS翻譯應用程式，專門設計來幫助用戶以不同的語調進行翻譯，讓溝通更加有趣和有效。
