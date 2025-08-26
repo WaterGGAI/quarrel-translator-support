@@ -1,0 +1,35 @@
+theme: jekyll-theme-minimal
+title: "吵架翻譯機 - 技術支援"
+description: "吵架翻譯機官方技術支援中心，提供完整的使用指南和問題解決方案"
+
+# GitHub Pages 設定
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO 設定
+lang: zh-TW
+author: WaterGG AI
+url: "https://waterggai.github.io"
+baseurl: "/quarrel-translator-support"
+
+# 社交媒體和聯絡資訊
+github_username: WaterGGAI
+
+# 網站設定
+show_downloads: false
+google_analytics: # 如需要可以添加
+
+# 導航連結
+header_pages:
+  - README.md
+
+# 排除不需要的文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
